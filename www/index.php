@@ -170,15 +170,11 @@
             </div>
             <div class="row">
                 <div class="col-lg-4 col-lg-offset-2">
-                    <p>I am Bowen Tian, a graduted student currently studying in California State University, Fullerton.
-                       If you are looking for a software / system engineer who is full of passion,
-                       having sense of mission, responsable and enjoy chanllenge, that is me.
+                    <p>I am Bowen Tian, a graduate student studying at California State University, Fullerton. If you are looking for a software / system engineer who is full of passion, has a sense of mission, responsible and enjoys challenges, that is me.
                     </p>
                 </div>
                 <div class="col-lg-4">
-                    <p>I love job with chanllenges, and I consider myself is a problem solver. I enjoy
-                    the process of deconstruction and detectation. That is also why I chose to work in
-                    the Cloud Computing Lab at our university. 
+                    <p>I love challenges, and I consider myself a problem solver. I enjoy the process of deconstruction and detection. That is also why I chose to work in the Cloud Computing Lab at our university.
                     </p>
                 </div>
                 <div class="col-lg-8 col-lg-offset-2 text-center">
